@@ -1,5 +1,5 @@
-# hello-world
-My First Repository
+# HellWorld
+my first repository
 ==========================
 This is my first branch!
 
@@ -7,4 +7,4 @@ I like node.js and coffeeScript.
 
 I like playing basketball very much!
 
-Kobe bryant is my favourite basketball play!
+Kobe bryant is my favourite basketball player!
